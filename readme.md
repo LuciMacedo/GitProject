@@ -1,1 +1,1 @@
-Olá esse rojeto me ensina como ensinar o Git
+This is a Git project to learn about github
